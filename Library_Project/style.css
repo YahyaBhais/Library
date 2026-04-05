@@ -1,0 +1,48 @@
+body {
+    font-family: Arial;
+    background: #f0f2f5;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.links a {
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.links a:hover {
+    background: darkblue;
+}
+
+form {
+    background: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 5px;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+td, th {
+    padding: 10px;
+}
